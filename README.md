@@ -4,6 +4,12 @@ This repository holds my solution to the MYOB Coding Challenge. In this challeng
 
 ## Setup Instructions
 
+Install Git if you have not done so already. Refer to [Git Install](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). You can check out your Git version by typing the following in your computer's terminal:
+
+```
+git --version
+```
+
 To setup this project, first select or create a directory you want to copy this project within.
 
 Using your computer's terminal, use the following terminal command to move into your designated directory:
