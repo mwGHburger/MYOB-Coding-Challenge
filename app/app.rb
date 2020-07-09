@@ -1,7 +1,7 @@
 require_relative 'game'
 require_relative 'controller'
 
-# create game instance
+# create game and controller instances
 game = Game.new
 controller = Controller.new(game)
 # start game
