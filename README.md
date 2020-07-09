@@ -4,15 +4,15 @@ This repository holds my solution to the MYOB Coding Challenge. In this challeng
 
 ## Setup Instructions
 
-To setup this project, first select or create a directory you want to copy this project.
+To setup this project, first select or create a directory you want to copy this project within.
 
-Using your computer's terminal, move into your designated directory:
+Using your computer's terminal, use the following terminal command to move into your designated directory:
 
 ```
 cd <path_to_selected_folder>
 ```
 
-Clone the source repository from GitHub into your designated directory:
+Clone the source repository from GitHub into your designated directory using:
 
 ```
 git clone https://github.com/mwGHburger/MYOB-Coding-Challenge.git
