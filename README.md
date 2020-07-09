@@ -21,11 +21,11 @@ git clone https://github.com/mwGHburger/MYOB-Coding-Challenge.git
 Move into the project folder by entering the following terminal command:
 
 ```
-cd Tic-Tac-Toe
+cd MYOB-Coding-Challenge
 ```
 
 To start the game, enter the following terminal command:
 
 ```
-ruby app.rb
+ruby app/app.rb
 ```
