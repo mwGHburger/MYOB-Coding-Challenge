@@ -6,25 +6,25 @@ This repository holds my solution to the MYOB Coding Challenge. In this challeng
 
 To setup this project, first select or create a directory you want to copy this project.
 
-Using your computer's terminal, move into your designated directory.
+Using your computer's terminal, move into your designated directory:
 
 ```
 cd <selected_folder>
 ```
 
-Clone the source repository from GitHub into your designated directory.
+Clone the source repository from GitHub into your designated directory:
 
 ```
 git clone https://github.com/mwGHburger/MYOB-Coding-Challenge.git
 ```
 
-Move into the project folder user the following command:
+Move into the project folder by entering the following terminal command:
 
 ```
 cd Tic-Tac-Toe
 ```
 
-To start the game, use he following command:
+To start the game, enter the following terminal command:
 
 ```
 ruby app.rb
