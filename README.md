@@ -9,7 +9,7 @@ To setup this project, first select or create a directory you want to copy this 
 Using your computer's terminal, move into your designated directory:
 
 ```
-cd <selected_folder>
+cd <path_to_selected_folder>
 ```
 
 Clone the source repository from GitHub into your designated directory:
