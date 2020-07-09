@@ -1,4 +1,4 @@
-# MYOB Coding Challenge - README
+# MYOB Coding Challenge - Michael Wang
 
 This repository holds my solution to the MYOB Coding Challenge. In this challenge, I have used the Ruby language to implement a console-based versioon of Tic Tac Toe that allows two humans to play a game on a 3 x 3 board.
 
